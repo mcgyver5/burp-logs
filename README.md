@@ -2,7 +2,7 @@
 
 Logs is a BurpSuite extension to work with log files.
 
-Whit this simple extension you will be able to load Burp's log files into Burp, and perfom actions like sending a specific request to the Repeater to perform further attacks or analysis.
+With this simple extension you will be able to load Burp's log files into Burp, and perfom actions like sending a specific request to the Repeater to perform further attacks or analysis.
 
 Under Project Options > Misc > Logging, there are options to log every HTTP request and response made and received by Burp. Logging can be configured per-tool or for all Burp traffic. This can be useful to keep __complete__ records of your sessions.
 
